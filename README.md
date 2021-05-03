@@ -1,3 +1,5 @@
+Forked from git://git.yoctoproject.org/meta-tensorflow
+
 # meta-tensorflow
 
 ## Overview
